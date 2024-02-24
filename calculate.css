@@ -1,0 +1,98 @@
+body{
+    font-size: 15pt;
+}
+.textbox{
+    text-align:none;
+    margin: 0px;
+    padding: 30px;
+    width: 100px;
+    color: black ;
+    
+}
+.topbtn{
+    display: flex;
+
+    margin-left: 35px;
+
+}
+.toprow{
+    border: solid 1px;
+    padding: 13px;
+    margin: 10px;
+    border-radius: 40px;
+    background-color: rgb(223, 36, 164);
+    .p{
+        border: solid 1px ;
+        padding: 13px;
+        margin: 10px;
+        border-radius: 40px;
+        background-color: rgb(29, 120, 120);
+    }
+}
+.first3button{
+    display: flex;
+    margin-left: 30px;
+
+}
+.sndrow{
+    border: solid 1px;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 40px;
+    background-color: rgb(165, 14, 102);
+}
+.first6button{
+    display: flex;
+    margin-left: 30px;
+}
+.trdrow{
+    border: solid 1px;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 40px;
+    background-color: rgb(165, 14, 102);
+}
+.first9button{
+    display: flex;
+    margin-left: 30px;
+}
+.fthrow{
+    border: solid 1px;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 40px;
+    background-color: rgb(165, 14, 102);
+}
+.box{
+    height: 500px;
+    border: solid 15px;
+    margin: 120px;
+    padding: 50px;
+    border-radius: 80px;
+    background-color: rgb(247, 29, 214);
+    box-shadow: rgb(150, 131, 131);
+    width: 410px;
+}
+.first12button{
+    display: flex;
+    margin-left: 30px;
+    padding-left: 0px;
+}
+.frow{
+    border: solid 1px;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 40px;
+    background-color: rgb(194, 218, 9);
+}
+.srow{
+    width: 90px;
+    height: 40px;
+    border: solid 1px;
+    padding: 5px 10px;
+    margin: 20px;
+    border-radius: 40px;
+    background-color: rgb(165, 14, 102);
+    text-align: center;
+    line-height: 40px;
+}

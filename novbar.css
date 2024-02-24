@@ -1,0 +1,52 @@
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+
+    .navbar {
+        background-color: #eadcdc;
+        background-image: url('"C:\Users\divya\Downloads\study.jpg"');
+        background-size: cover;
+        color: #110f0f;
+        padding: 0px 0;
+    }
+
+    .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
+
+    .logo {
+        margin: 0;
+    }
+
+    .nav{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .nav{
+        margin-left: 0;
+    }
+
+    .nav{
+        color: #fff;
+        text-decoration: none;
+    }
+
+    .content {
+        padding: 40px;
+        text-align: center;
+    }
+  
+
+.img{
+    width: 100vw;
+    height: 90vh;
+}

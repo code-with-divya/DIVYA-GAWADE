@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(255, 254, 254);
+    margin: 90px;
+    padding: 0;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 120px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.logo {
+    margin: 0;
+}
+
+/* card css */
+  .card-img-top{
+    width: 10vw;
+    justify-content: space-evenly ;
+    padding: 20%;
+    margin: 20px;
+    height: 10vh;
+    }
+
+.card-img-top2{
+    width: 10vw;
+    justify-content: space-evenly ;
+    padding: 70%;
+    margin: auto;
+    height: 0vh;
+    }
+    
+.card-img-top3{
+        width: 10vw;
+        justify-content: space-evenly ;
+        padding: 70%;
+        margin: auto;
+        height: 0vh;
+        }
+
+ .logo{
+    height: 50px;
+    width: auto;
+    flex: 0;
+    margin: 0px;
+    padding: 0px;   
+} 
+
+/* search bar */
+ .search-input {
+    margin: 0px;
+    padding: 0px;
+    flex: 1;
+    border: solid rgb(12, 11, 12);
+    height: 15vw;
+    width: 15vh;
+} 
+/* search input */
+.search-button {
+    padding: 5px 10px;
+    background-color: #e6e0e0;
+    border: black;
+    cursor: pointer;
+}
+
+    

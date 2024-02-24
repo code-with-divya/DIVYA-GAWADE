@@ -1,0 +1,82 @@
+        body{
+            background-color:lightgray;
+        }
+/* border */
+        .logo{
+            height: 320px;
+            width: 400px;
+            border: 2px solid rgb(7, 7, 7); 
+            margin: 100px auto;
+            position:static;
+            
+        } 
+
+
+        .logo1{
+            height: 320px;
+            width: 400px;
+            border: 2px solid rgb(14, 13, 13); 
+            margin: 100px auto;
+            position:static;
+            
+        } 
+        .container{
+            display: flex;
+            justify-content: space-evenly;
+        }
+        .pic{
+            height: 120px;
+            width: 120px;
+            border-radius: 50%;
+            position: absolute;
+            top: 45px;
+            left: 359px;
+            background-color: rgb(8, 8, 8);
+            padding: 5px;
+
+        }
+        
+        .btn1{
+            font-size: 20px;
+            margin-top: 63px;
+            margin-left: 25px;
+        }
+        .head{
+            
+            font-size: 15px;
+            margin-left: 40px;
+        }
+        .z{
+            margin-left: 40px;
+            font-size: 20px;
+        }
+        .d{
+            margin-left: 60px;
+            display: block;
+       
+        
+        }
+        .main{
+            /* position: absolute; */
+            /* top:10px; */
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+        }
+       .pic1{
+            height: 120px;
+            width: 120px;
+            border-radius: 50%;
+            position: absolute;
+            top: 45px;
+            left: 1190px;
+            background-color: rgb(9, 9, 9);
+            padding: 5px;
+
+        } 
+        .bi{
+          border-radius: 25%;
+          background-size: 8px;
+         
+          font-size: 6px;
+        }

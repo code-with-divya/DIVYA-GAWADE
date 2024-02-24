@@ -1,0 +1,91 @@
+body{
+     background-color: rgb(144, 254, 254);
+  }
+
+.h1{
+    height: 90px;
+    width: 190px;
+    font-size: 30px; 
+    color:rgb(15, 15, 14);
+    background-color:rgb(159, 78, 92);
+    border-radius: 0px 30px 0px 30px;
+    margin: 20px; 
+    cursor: pointer;
+  
+} 
+
+.h1:hover {
+  background-color: rgb(238, 103, 193);
+  transform: scale(1); 
+
+}
+
+  
+ .h2 {
+    height: 90px;
+    width: 190px;
+    font-size: 20px;
+    box-shadow: 1px 0px 1px 0px;
+    background-color:violet;
+    cursor: pointer;
+    border-radius: black;
+    margin:20px;
+    
+  }
+
+  .h2:hover{
+    background-color: rgb(20, 150, 52);
+    transform: scale(1);
+    transition:0.2s;
+  }
+
+  .h3{
+    height: 90px;
+    width: 190px;
+    color:rgb(110, 21, 87);
+    background-color:pink;
+    cursor: pointer;
+    border-radius: 0px 10px 0px 10px;
+    margin: 20px;
+  }
+
+.h3:hover{
+  background-color: cadetblue;
+  transform: scale(1);
+
+}
+
+  .h4{
+    height: 90px;
+    width: 190px;
+    cursor: pointer;
+    color:rgb(110, 21, 87);
+    background-color:rgb(223, 211, 213);
+    border-radius: 10px 0px 1px 0px;
+    margin: 20px;
+   
+    
+  }
+  .h4:hover:hover{
+    background-color: rgb(160, 95, 127);
+    transform: scale(1);
+  }
+
+  .h5{
+    height: 90px;
+    width: 190px;
+    cursor: pointer;
+    color:#060506;
+    background-color:rgb(235, 18, 54);
+    border-radius: 10px 10px;
+    margin: 20px;
+    
+    
+  }
+  .h5:hover:hover{
+    background-color: rgb(160, 95, 127);
+    transform: scale(1);
+  }
+
+ 
+
